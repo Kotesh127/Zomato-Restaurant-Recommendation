@@ -1,4 +1,4 @@
-# Zomato Restaurant Intelligence System
+# Zomato Restaurant Recommendation System
 
 ## Project Overview
 This project is an end-to-end restaurant recommendation system using the Zomato Bangalore dataset.
