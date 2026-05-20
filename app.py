@@ -5,7 +5,7 @@ import pandas as pd
 df = pd.read_csv("data/zomato_deployment.csv")
 
 st.set_page_config(
-    page_title="Zomato Restaurant Intelligence System",
+    page_title="Zomato Restaurant Recommender System",
     page_icon="images/Zomato.png",
     layout="wide"
 )
