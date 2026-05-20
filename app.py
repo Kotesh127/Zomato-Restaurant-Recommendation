@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # Load data
-df = pd.read_csv("data/zomato_final.csv")
+df = pd.read_csv("data/zomato_deployment.csv")
 
 st.set_page_config(
     page_title="Zomato Restaurant Intelligence System",
